@@ -1,2 +1,2 @@
-# RzValidator
+# Test
 Validator PHP 

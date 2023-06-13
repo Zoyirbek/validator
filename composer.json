@@ -1,0 +1,16 @@
+{
+    "name": "rzvalidator/Validator",
+    "description": "Test desc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zoyirbek Rakhmonberdiev",
+            "email": "Rakhmonberdiev97@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "rzvalidator\\": "src/"
+        }
+    }
+}

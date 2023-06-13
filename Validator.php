@@ -1,6 +1,6 @@
 <?php
 
-namespace rzvalidator;
+namespace RzValidator;
 
 
 class Validator

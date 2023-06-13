@@ -1,5 +1,5 @@
 {
-    "name": "rzpack/validator",
+    "name": "rzpack/rzvalidator",
     "description": "Test desc",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "RzValidator\\": "./"
+            "rzvalidator\\": "./"
         }
     }
 }

@@ -3,6 +3,12 @@
 – Example & set new template
 
 ```
+<?php
+
+require_once "vendor/autoload.php";
+
+use RzValidator\Validator;
+
 $data = [
 	'title' => '',
 	'body' => '',
@@ -51,4 +57,3 @@ if($validator2->hasErrors())
 {
 	echo $validator2->listErrors('title');
 }
-```

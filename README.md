@@ -2,6 +2,7 @@
 
 – Example & set new template
 
+```
 $data = [
 	'title' => '',
 	'body' => '',
@@ -50,5 +51,4 @@ if($validator2->hasErrors())
 {
 	echo $validator2->listErrors('title');
 }
-
-
+```

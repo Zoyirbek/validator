@@ -3,10 +3,6 @@
 – Example & set new template
 
 ```
-<?php
-
-require_once "vendor/autoload.php";
-
 use RzValidator\Validator;
 
 $data = [

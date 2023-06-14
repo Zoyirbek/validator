@@ -1,5 +1,15 @@
 # Validator PHP 
 
+– Installation
+* Composer
+```
+composer require rzpack/validator
+```
+* Git
+```
+git clone https://github.com/Zoyirbek/validator.git
+```
+
 – Example & set new template
 
 ```

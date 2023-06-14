@@ -13,10 +13,6 @@
         "psr-4": {
             "RzValidator\\": "./"
         }
-    },
-    "require": {
-        "rzpack/validator": "v1.0"
     }
-
 }
 
